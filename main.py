@@ -30,3 +30,12 @@ stock = stock.strip()
 #print(title)
 #print(price)
 #print(stock)
+
+today = datetime.date.today()
+
+header = ['Title', 'Price', 'Stock', 'Date']
+data = [title, price, stock, today]
+
+with open('AmazonWebScrapeDataSet.csv', 'a+', newline='', encoding='UTF8') as f:
+    writer = csv.writer(f)
+    writer.writerow(data)
