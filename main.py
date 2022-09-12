@@ -54,7 +54,7 @@ def check_priceTLOU():
 #    server.ehlo()
 #    #server.starttls()
 #    server.ehlo()
-#    server.login('zuhairzuberi13@gmail.com','WzNz1303')
+#    server.login('zuhairzuberi13@gmail.com','xxxxxxxxxxxx')
 #    
 #    subject = "Hey Zuhair the product has got a lower price!!! BUY! BUY! BUY!"
 #    body = "The price for TLOU Part I on PS5 has reached $40! https://www.amazon.com/Last-Us-Part-PlayStation-5/dp/B0B3QWRQL8/ref=sr_1_1_sspa?keywords=last+of+us+part+1&qid=1662942717&sprefix=last+of+us+%2Caps%2C108&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNFdPNDhPTDUzMjkwJmVuY3J5cHRlZElkPUEwMTc5MjMwMVY0MDg5UU9INEhESiZlbmNyeXB0ZWRBZElkPUEwMDE0MTUxMzNZWlIzSVBZRVY0QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
