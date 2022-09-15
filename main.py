@@ -54,7 +54,7 @@ def check_priceTLOU():
 
 def send_mailTLOU():
     email_sender = 'projecttesterzuzu@gmail.com'
-    password = 'dmrtvmoyymmqbbis'
+    password = 'xxxxxxxxxxxxxxxxxx'
 
     email_receiver = 'projecttesterzuzu@gmail.com'
 
@@ -114,7 +114,7 @@ def check_priceRyzen5600x():
 
 def send_mail5600x():
     email_sender = 'projecttesterzuzu@gmail.com'
-    password = 'dmrtvmoyymmqbbis'
+    password = 'xxxxxxxxxxxxxxxxxx'
 
     email_receiver = 'projecttesterzuzu@gmail.com'
 
